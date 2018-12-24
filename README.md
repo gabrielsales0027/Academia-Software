@@ -40,11 +40,11 @@ Com o cálculo do IMC podemos checar se uma pessoa está acima do peso, o cálcu
 
 A proxima aba mostra as estatísticas da academia, tais como a quantidade de pessoas e pessoas acima do peso.
 
-![](figuras/img10.PNG)
+![](figuras/img9.PNG)
 
 Além disso ela mostra a quantia de dinheiro arrecadado com a matrícula, no código o preço de cada plano pode ser alterado manualmente, isso vai depender de cada academia.
 
-![](figuras/img9.PNG)
+![](figuras/img10.PNG)
 
 *Arquivo sendo salvo
 
