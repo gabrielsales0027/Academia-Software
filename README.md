@@ -9,7 +9,7 @@ Nessa aba você pode adcionar todas as informações necessárias para realizar 
 
 ![](figuras/img2.PNG)
 
-Exemplo de cadastro
+*Exemplo de cadastro
 
 # Pessoas cadastradas
 Após realizado o cadastro, as informações mais importantes de cada cliente são salvos em uma tabela e imediatamente é calculado o IMC, que vai ser utilizado e de extrema importância nas próximas etapas do programa,todos os clientes podem ser encontrados nessa aba, como mostra a figura a seguir.
@@ -20,11 +20,11 @@ Nesta mesma aba existem os botões para fazer a ordenação por ordem alfabétic
 
 ![](figuras/img4.PNG)
 
-Ordenação por ordem alfabética
+*Ordenação por ordem alfabética
 
 ![](figuras/img5.PNG)
 
-Ordenação por Imc
+*Ordenação por Imc
 
 # Detalhes
 
