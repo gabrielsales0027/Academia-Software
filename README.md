@@ -42,3 +42,5 @@ A proxima aba mostra as estatísticas da academia, tais como a quantidade de pes
 
 ![](figuras/img9.PNG)
 
+Além disso ela mostra a quantia de dinheiro arrecadado com a matrícula, no código o preço de cada plano pode ser alterado manualmente, isso vai depender de cada academia.
+
