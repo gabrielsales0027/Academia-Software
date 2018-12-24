@@ -44,6 +44,10 @@ A proxima aba mostra as estatísticas da academia, tais como a quantidade de pes
 
 Além disso ela mostra a quantia de dinheiro arrecadado com a matrícula, no código o preço de cada plano pode ser alterado manualmente, isso vai depender de cada academia.
 
+# Salvar e Abrir
+
+O programa ainda tem como funções: salvar e abrir. Salvar transfere todo o conteudo das pessoas cadastradas para um arquivo txt em um local da escolha do usuário, já abrir serve para mostrar na tabela do programa os dados que eram antes de uma arquivo txt, esses arquivos são salvos com suas informações separadas por virgulas. É muito útil pois pode-se se fazer um arquivamento diário de todas as pessoas cadastradas, poupando espaço e tempo.
+
 ![](figuras/img10.PNG)
 
 *Arquivo sendo salvo
