@@ -36,3 +36,9 @@ Com o cálculo do IMC podemos checar se uma pessoa está acima do peso, o cálcu
 
 ![](figuras/img7.PNG)
 
+# Estatísticas
+
+A proxima aba mostra as estatísticas da academia, tais como a quantidade de pessoas e pessoas acima do peso.
+
+![](figuras/img9.PNG)
+
